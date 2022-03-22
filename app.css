@@ -1,0 +1,17 @@
+body{
+    width: 300px;
+    height: 60px;
+    background-color: rgb(77, 160, 238);
+
+}
+
+h2 {
+    color: rgb(216, 196, 14);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button{
+    background-color: darkgoldenrod;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
